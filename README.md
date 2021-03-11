@@ -1,5 +1,7 @@
 # Minimal Hand
 
+A fork from [this](https://github.com/CalciferZh/minimal-hand) repo.
+
 A minimal solution to hand motion capture from a single color camera at over 100fps.
 Easy to use, plug to run.
 
